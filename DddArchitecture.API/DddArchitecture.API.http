@@ -1,0 +1,6 @@
+@DddArchitecture.API_HostAddress = http://localhost:5264
+
+GET {{DddArchitecture.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
